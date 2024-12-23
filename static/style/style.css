@@ -1,0 +1,108 @@
+
+.conteiner {
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.conteiner2 {
+    display: inline-block;
+    border-style: solid;
+    border-width: 0.5px;
+    padding-right: 20px;
+    
+}
+
+.conteiner2>h4 {
+    text-align: center;
+    font-weight: bold;
+}
+
+.angelhranitel {
+    margin-top: 30px;
+}
+
+.angelhranitel>img {
+    float: left;
+    width: 250px;
+    margin-right: 20px;
+}
+
+.hram {
+    margin-top: 200px;
+}
+
+.hram>img {
+    float: left;
+    width: 400px;
+    margin-right: 20px;
+    margin-left: 0;
+}
+
+.parovoz {
+    margin-top: 170px;
+}
+.parovoz>img {
+    float: left;
+    width: 400px;
+    margin-right: 20px;
+}
+
+.avgan {
+    margin-top: 140px;
+}
+
+.avgan>img {
+    float: left;
+    width: 400px;
+    margin-right: 20px;
+}
+
+.stela {
+    margin-top: 180px;
+}
+.stela>img {
+    float: left;
+    width: 300px;
+    margin-right: 20px;
+}
+
+.skulptura {
+    margin-top: 230px;
+}
+
+.skulptura>img {
+    float: left;
+    width: 400px;
+    margin-right: 20px; 
+}
+
+.muzei {
+    margin-top: 160px;
+}
+
+.muzei>img {
+    float: left;
+    width: 400px;
+    margin-right: 20px;
+}
+
+.skver {
+    margin-top: 120px;
+}
+
+.skver>img {
+    float: left;
+    width: 400px;
+    margin-right: 20px;
+}
+
+.park {
+    margin-top: 160px;
+}
+
+.park>img {
+    float: left;
+    width: 400px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
